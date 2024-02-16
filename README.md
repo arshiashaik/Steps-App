@@ -3,7 +3,7 @@
 This project is a simple app built using React that displays three steps to become a React Developer.
 🔗 Link
 
-[Demo Link](https://visionary-mousse-a45f9e.netlify.app)
+[Demo Link](https://steps-app.netlify.app)
 
 ## 💻 Tech Stack
 
