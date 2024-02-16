@@ -15,7 +15,7 @@ export default function App() {
   const [isOpen, setisOpen] = useState("true");
 
   return (
-    <div>
+    <>
       <button
         className="close"
         onClick={() => {
@@ -45,6 +45,6 @@ export default function App() {
           </div>
         </div>
       )}
-    </div>
+    </>
   );
 }
